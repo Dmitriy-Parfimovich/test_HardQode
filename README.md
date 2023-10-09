@@ -1,7 +1,3 @@
-HardQode, test task
+HardQode, test task, 06.10 - 09.10.23
 
-Django admin ('/admin'):
-
-- Username: admin
-- E-mail: admin@example.com
-- Password: a1234567b
+Making API based on the implemented database architecture.

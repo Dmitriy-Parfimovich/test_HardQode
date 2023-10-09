@@ -12,3 +12,6 @@ shell:
 
 lint:
 	poetry run flake8 .
+
+superuser:
+	poetry run python manage.py createsuperuser

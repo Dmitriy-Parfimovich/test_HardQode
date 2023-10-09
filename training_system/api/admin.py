@@ -5,5 +5,5 @@ from .models import *
 admin.site.register(Product)
 admin.site.register(Lesson)
 admin.site.register(User)
-admin.site.register(ViewStatus)
-admin.site.register(UserAccess)
+admin.site.register(LessonViews)
+admin.site.register(ProductAccess)
