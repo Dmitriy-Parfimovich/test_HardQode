@@ -23,6 +23,7 @@ Description:
 Суть задания заключается в проверке знаний построения связей в БД и умение правильно строить запросы без ошибок N+1.
 
 Перед тем, как приступить к выполнению задания, советуем изучить материалы, которые помогут в выполнении заданий:
+
 https://docs.djangoproject.com/en/4.2/intro/tutorial01/
 https://docs.djangoproject.com/en/4.2/topics/db/models/
 https://docs.djangoproject.com/en/4.2/topics/db/queries/
