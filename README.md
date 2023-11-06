@@ -6,7 +6,11 @@ To check functionality:
 
 ```sh
 git clone
+cd test_HardQode
+poetry install
 poetry shell
+make migrations
+make migrate
 make start
 curl -H 'Accept: application/json; indent=4' -u admin:a1234567b http://127.0.0.1:8000/lessonsviews/
 ```
